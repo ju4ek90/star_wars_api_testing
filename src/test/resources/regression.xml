@@ -5,8 +5,8 @@
 
     <test name="Functional Tests">
         <classes>
-            <class name="api.tests.functional.tests.UseCase1"/>
-            <class name="api.tests.functional.tests.UseCase2"/>
+            <class name="api.tests.UseCase1"/>
+            <class name="api.tests.UseCase2"/>
         </classes>
     </test>
 </suite>

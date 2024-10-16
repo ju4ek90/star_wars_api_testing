@@ -1,4 +1,4 @@
-package api.tests.functional.tests;
+package api.tests;
 
 import com.jayway.jsonpath.JsonPath;
 import org.json.JSONObject;

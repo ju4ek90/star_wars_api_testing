@@ -1,4 +1,4 @@
-package api.tests.functional.tests;
+package api.tests;
 
 
 import org.junit.jupiter.api.Test;
